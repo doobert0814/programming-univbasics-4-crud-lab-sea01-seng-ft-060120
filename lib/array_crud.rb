@@ -10,7 +10,7 @@ def
 end
 
 def 
-    add_element_to_end_of_array.push("Piano")
+    create_an_array.push("Piano")
   
   
   
