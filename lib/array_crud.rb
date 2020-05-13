@@ -9,8 +9,9 @@ def
     ["Drums", "Brass", "Strings", "Reeds"]
 end
 
-def add_element_to_end_of_array(array)
-  add_element_to_end_of_array.push("Tuba")
+def 
+  add_element_to_end_of_array(array)
+    add_element_to_end_of_array.push("Tuba")
   
   
   
