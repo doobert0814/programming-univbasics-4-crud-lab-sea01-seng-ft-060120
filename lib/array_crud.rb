@@ -9,7 +9,7 @@ def
     ["Drums", "Brass", "Strings", "Reeds"]
 end
 
-def create_an_array << ("piano")
+def add_element_to_end_of_array.push(add_element_to_end_of_array, "piano")
   
   
   
