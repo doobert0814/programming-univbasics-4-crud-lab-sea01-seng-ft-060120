@@ -10,7 +10,7 @@ def
 end
 
 def add_element_to_end_of_array
-      add_element_to_end_of_array(create_an_array, "Piano")
+      add_element_to_end_of_array("Piano", create_an_array)
   
   
   
