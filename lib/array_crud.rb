@@ -4,7 +4,9 @@ def
   
 end
 
-def create_an_array= ["Drums", "Brass", "Strings", "Reeds"]
+def 
+  create_an_array 
+    ["Drums", "Brass", "Strings", "Reeds"]
 end
 
 def add_element_to_end_of_array(array, element)
